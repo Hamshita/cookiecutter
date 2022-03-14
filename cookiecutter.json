@@ -1,0 +1,6 @@
+{
+    "project_name": "mlflow_cookiecutter",
+    "description": "Cookiecutter template for complete end-to-end implementation of MLops using tools like mlflow,dvc,git.",
+    "author": "Hamshita",
+    "email": "hamshita11@gmail.com"
+}
